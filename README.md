@@ -1,6 +1,3 @@
-
-# 849 Data Scientist Homework Problem
-
 ## Problem
 Given the dataset `dataset.npy`, make a 80%-20% train-test split. Train a deep neural network that is based on RNN, CNN, or both. Evaluate the model on the test set.
 
